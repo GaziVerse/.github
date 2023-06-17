@@ -1,4 +1,5 @@
-## Hi there 👋
+# Gazi Üniversitesi Meta Evren Projesi
+© 2023 Gazi Üniversitesi Bilgi İşlem Dairesi Başkanlığı & GaziVerse | Tüm Hakları Saklıdır
 
 <!--
 
